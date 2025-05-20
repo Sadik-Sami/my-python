@@ -39,6 +39,7 @@ print("Coefficients > 0 mean higher risk (lower survival).")
 print("For example, if 'disease_risk' has a positive coefficient, high-risk disease increases hazard (worse prognosis).")
 print("The survival curve shows the probability of survival over time for the new patient profile.")
 # ADDED new comment
+# ADDED new comment 2
 
 # Optional: Kaplan-Meier for overall survival
 kmf = KaplanMeierFitter()
